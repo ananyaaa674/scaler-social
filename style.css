@@ -1,0 +1,59 @@
+/* ---- RESET/BASIC STYLING ---- */
+* {
+    .body{
+        margin: 0;
+    }
+    .bar nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .body{
+        display: flex;
+    }
+    .nav post{
+        height: 100%;
+        background-color: whitesmoke;
+        width: 75%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .level up post{
+        display: flex;
+        flex-direction: column;
+    }
+    .down{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    #post-btn{
+        border-radius: 15px;
+        padding: 5px;
+        width: 60px;
+        color: white;
+        background-color: rgb(66, 66, 248);
+    }
+    .post it{
+        padding-left: 20px;
+        width: 25%;
+    }
+    
+    
+    
+    .post-body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .rightside{
+    
+    }
